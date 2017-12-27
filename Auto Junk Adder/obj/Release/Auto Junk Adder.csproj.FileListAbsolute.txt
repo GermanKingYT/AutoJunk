@@ -1,0 +1,13 @@
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Release\Auto Junk Adder.exe.config
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Release\Auto Junk Adder.exe
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Release\Auto Junk Adder.pdb
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Release\MetroFramework.Design.dll
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Release\MetroFramework.dll
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Release\Auto_Junk_Adder.Form1.resources
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Release\Auto_Junk_Adder.Properties.Resources.resources
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Release\Auto Junk Adder.csproj.GenerateResource.Cache
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Release\Auto Junk Adder.csproj.CoreCompileInputs.cache
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Release\Auto Junk Adder.exe
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Release\Auto Junk Adder.pdb
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Release\Auto Junk Adder.csprojResolveAssemblyReference.cache

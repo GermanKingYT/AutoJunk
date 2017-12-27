@@ -1,0 +1,26 @@
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\bin\Debug\Auto Junk Adder.exe.config
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\bin\Debug\Auto Junk Adder.exe
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\bin\Debug\Auto Junk Adder.pdb
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\bin\Debug\MetroFramework.Design.dll
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\bin\Debug\MetroFramework.dll
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.csprojResolveAssemblyReference.cache
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto_Junk_Adder.Form1.resources
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto_Junk_Adder.Properties.Resources.resources
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.csproj.GenerateResource.Cache
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.csproj.CoreCompileInputs.cache
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.exe
+C:\Users\prefo\source\repos\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.pdb
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Debug\Auto Junk Adder.exe.config
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Debug\Auto Junk Adder.exe
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Debug\Auto Junk Adder.pdb
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Debug\MetroFramework.Design.dll
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Debug\MetroFramework.dll
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.csprojResolveAssemblyReference.cache
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto_Junk_Adder.Form1.resources
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto_Junk_Adder.Properties.Resources.resources
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.csproj.GenerateResource.Cache
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.csproj.CoreCompileInputs.cache
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.exe
+C:\Users\Peatreat\Desktop\Auto Junk Adder\Auto Junk Adder\obj\Debug\Auto Junk Adder.pdb
